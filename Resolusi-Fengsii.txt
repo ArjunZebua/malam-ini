@@ -1,0 +1,31 @@
+Hallo Juntasx, nama saya Fengsi dari bandung
+
+Resolusi saya : 
+
+Berikut adalah resolusi karier untuk menjadi programmer yang lebih baik di tahun depan:
+
+1. Meningkatkan Keterampilan Teknis
+- **Belajar Bahasa Pemrograman Baru**: Kuasai setidaknya satu bahasa baru seperti Python, JavaScript, atau Go, tergantung kebutuhan pasar.  
+- **Pelajari Framework atau Teknologi Terkini**: Misalnya, React.js untuk front-end, Node.js untuk back-end, atau Docker untuk DevOps.  
+- **Tingkatkan Pemahaman Algoritma dan Struktur Data**: Jadwalkan waktu untuk memecahkan masalah di platform seperti LeetCode, HackerRank, atau Codewars.  
+- **Pelajari Cloud Computing**: Dapatkan sertifikasi seperti AWS, Azure, atau Google Cloud.  
+
+2. Membangun Portofolio
+- **Buat Proyek Pribadi**: Kembangkan aplikasi atau proyek open-source yang bisa menunjukkan keahlian Anda.  
+- **Perbaiki Repository GitHub**: Pastikan GitHub Anda terorganisir dengan baik dan berisi kode berkualitas.  
+- **Ikuti Hackathon atau Kontribusi Open Source**: Ini membantu membangun jaringan dan meningkatkan pengalaman.  
+
+3. Mengembangkan Soft Skills
+- **Belajar Berkomunikasi Lebih Efektif**: Penting untuk bekerja dalam tim dan menjelaskan solusi teknis.  
+- **Manajemen Waktu**: Gunakan metode seperti Pomodoro atau aplikasi manajemen proyek untuk bekerja lebih efisien.  
+- **Kolaborasi Tim**: Gunakan alat seperti Jira, Trello, atau Asana untuk meningkatkan produktivitas dalam tim.  
+
+4. Meningkatkan Peluang Karier
+- **Ikuti Kursus dan Sertifikasi**: Misalnya, sertifikasi Python, Java, atau Full-Stack Development.  
+- **Perbarui CV dan LinkedIn**: Tambahkan proyek baru, keterampilan, dan pengalaman yang relevan.  
+- **Melamar Posisi Baru atau Promosi**: Targetkan perusahaan teknologi yang Anda impikan.  
+
+5. Terus Belajar dan Berinovasi
+- **Ikuti Komunitas Programmer**: Bergabunglah dengan komunitas seperti GitHub, Stack Overflow, atau meetup lokal.  
+- **Baca Buku atau Blog Teknologi**: Contoh buku: *Clean Code* oleh Robert C. Martin.  
+- **Ikuti Webinar atau Konferensi Teknologi**: Misalnya, Google I/O atau AWS Summit.  
