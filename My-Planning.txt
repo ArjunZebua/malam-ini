@@ -1,0 +1,83 @@
+### **1. Pendidikan & Pengembangan Diri**
+- **Lulus dengan nilai terbaik di bidang Ilmu Komputer**  
+  Arjun sedang mengejar gelar Ilmu Komputer, jadi fokus pada menyelesaikan tugas-tugas akademik dengan baik, termasuk proyek akhir atau skripsi.  
+
+- **Menguasai Bahasa Pemrograman Baru**  
+  Pilih satu atau dua bahasa pemrograman untuk dipelajari secara mendalam, seperti **Go** untuk performa backend atau **Rust** untuk keamanan dan efisiensi.  
+
+- **Belajar Teknologi Baru**  
+  - Kubernetes atau Docker untuk DevOps.  
+  - Framework baru seperti Next.js atau SvelteKit untuk web development.  
+  - Fokus pada AI/ML jika ingin eksplorasi bidang baru.  
+
+- **Ikut Kursus Online atau Bootcamp**  
+  Daftar kursus di platform seperti Coursera atau Udemy untuk mendalami topik seperti **React Advanced**, **Machine Learning**, atau **Pengembangan API dengan Node.js**.  
+
+---
+
+### **2. Proyek & Pengalaman Kerja**
+- **Membangun Portofolio Pribadi**  
+  Buat portofolio web untuk menampilkan proyek, keterampilan, dan pengalaman. Sertakan:
+  - **Sepokat Store**: Refactor dan tambahkan fitur menarik.  
+  - **Dunia Brended**: Tingkatkan fitur grid dan pencarian.  
+
+- **Kontribusi Open Source**  
+  Ikut serta dalam proyek open source untuk pengalaman nyata, seperti kontribusi di GitHub.  
+
+- **Magang atau Pekerjaan Paruh Waktu**  
+  Cari magang di perusahaan teknologi untuk memperkaya pengalaman praktis.  
+
+- **Proyek Baru untuk Portofolio**  
+  - Aplikasi berbasis **AI Chatbot**.  
+  - Game interaktif sederhana dengan React.  
+  - Sistem E-commerce (misalnya, tas atau pakaian) dengan database MySQL.
+
+---
+
+### **3. Karier & Networking**
+- **Persiapan Karier**  
+  - Buat **CV** yang profesional dan tambahkan pengalaman relevan.  
+  - Tingkatkan profil LinkedIn dan GitHub untuk menarik perhatian perekrut.  
+  - Ikut **hackathon** dan kompetisi untuk pengalaman dan hadiah.  
+
+- **Melamar Pekerjaan**  
+  Targetkan perusahaan teknologi terkemuka atau startup lokal. Fokus pada posisi seperti **Front-End Developer**, **Back-End Developer**, atau **Full-Stack Developer**.  
+
+- **Ikut Komunitas Teknologi**  
+  Bergabung dengan komunitas teknologi seperti Discord developer groups, Meetup, atau komunitas React lokal.  
+
+---
+
+### **4. Minat & Hobi**
+- **Bahasa & Budaya**  
+  - Dalami bahasa daerah favorit seperti Bahasa Batak Toba dan Arab.  
+  - Buat konten ringan (blog atau video) tentang humor dan lagu-lagu Batak Toba.  
+
+- **Game Development**  
+  - Coba membuat game sederhana berbasis React atau Unity.  
+
+- **Musik & Film**  
+  - Nikmati lebih banyak lagu klasik seperti **Bohemian Rhapsody**.  
+  - Tulis ulasan film seperti **The Shawshank Redemption** untuk blog atau media sosial.  
+
+---
+
+### **5. Kesehatan & Gaya Hidup**
+- **Jaga Keseimbangan Hidup**  
+  - Luangkan waktu untuk olahraga ringan, seperti jogging atau yoga.  
+  - Rutin istirahat dari layar untuk menjaga kesehatan mata.  
+
+- **Produktivitas**  
+  - Gunakan tools seperti **Notion** atau **Trello** untuk mengatur waktu dan tugas-tugas.  
+  - Tetapkan tujuan mingguan dan bulanan untuk memastikan progress.  
+
+---
+
+### **6. Goals Tambahan**
+- **Peluncuran Toko Roti**  
+  Jika ada progress pada proyek toko roti, buat rencana strategis untuk pemasaran (misalnya, media sosial atau website).  
+
+- **Belajar Desain**  
+  Tingkatkan keterampilan desain menggunakan tools seperti Figma untuk mendukung proyek web.  
+
+---
