@@ -8,7 +8,10 @@
 - **Belajar Teknologi Baru**  
   - Kubernetes atau Docker untuk DevOps.  
   - Framework baru seperti Next.js atau SvelteKit untuk web development.  
-  - Fokus pada AI/ML jika ingin eksplorasi bidang baru.  
+  - Fokus pada AI/ML jika ingin eksplorasi bidang baru.
+  - Belajar bahasa pemrograman C sharp
+  - Belajar Laravel
+  - Belajar Java
 
 - **Ikut Kursus Online atau Bootcamp**  
   Daftar kursus di platform seperti Coursera atau Udemy untuk mendalami topik seperti **React Advanced**, **Machine Learning**, atau **Pengembangan API dengan Node.js**.  
